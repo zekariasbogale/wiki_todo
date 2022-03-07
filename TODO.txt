@@ -1,0 +1,4 @@
+Refine home page
+MediaWiki self tutorial
+Contact us page to be generated from inside General Disclaimer
+IDE on local machine, GitHub, cPanel cloud hosting
