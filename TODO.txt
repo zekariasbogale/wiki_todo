@@ -1,4 +1,5 @@
+Since MediaWiki 1.37.1 has error, I use MediaWiki 1.35.5 long-term support (LTS)
 Refine home page
 MediaWiki self tutorial
 Contact us page to be generated from inside General Disclaimer
-IDE on local machine, GitHub, cPanel cloud hosting
+Visual Studio Code & Atom IDE on local machine, GitHub account, and cPanel cloud hosting sync excluding change synchronization
